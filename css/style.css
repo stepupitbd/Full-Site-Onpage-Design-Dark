@@ -1,0 +1,396 @@
+.sbd-bg-1 {
+    background-color: #282a2e;
+}
+
+.sbd-bg-2 {
+    background-color: #4b3f34;
+}
+
+.sbd-nav-link-hvr:hover {
+    background-color: #35bf88;
+}
+
+.sbd-sli-h2 {
+    position: absolute;
+    top: 45%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    font-family: Poppins;
+    color: #fff;
+    text-align: left;
+    font-weight: normal;
+    font-size: 40px;
+    ;
+}
+
+.sbd-sli-p {
+    position: absolute;
+    top: 55%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-family: Poppins;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.sbd-card-img {
+    background-color: #313338;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.sbd-card-bg {
+    background-color: #282a2e;
+}
+
+.sbd-theme {
+    width: 100%;
+    height: 400px;
+}
+
+.sbd-theme-p,
+.sbd-table-p {
+    padding-top: 10%;
+    font-size: 60px;
+}
+
+.sbd-table-p-2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -30px;
+}
+
+.sbd-theme-btn {
+    padding: 12px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #b0cd3b;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #819337;
+}
+
+.sbd-theme-btn:hover {
+    background-color: #daf667
+}
+
+.sbd-theme-btn:active {
+    background-color: #b8df19;
+    box-shadow: 0 5px #819337;
+    transform: translateY(4px);
+}
+
+.sbd-theme-btn-2 {
+    padding: 12px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #1bbc9d;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #1b7a68;
+}
+
+.sbd-theme-btn-2:hover {
+    background-color: #0edcb4
+}
+
+.sbd-theme-btn-2:active {
+    background-color: #037e66;
+    box-shadow: 0 5px #1b7a68;
+    transform: translateY(4px);
+}
+
+.sbd-price-card-bg {
+    background-color: #313338;
+}
+
+.sbd-sub-card-t-bg {
+    background-color: #1bbc9d;
+    box-shadow: 0 5px #148c75;
+    148c75
+}
+
+.sbd-card-sub-text {
+    font-weight: bold;
+}
+
+.sbd-price-btn {
+    padding: 8px 25px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #b0cd3b;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #819337;
+}
+
+.sbd-price-btn:hover {
+    background-color: #daf667
+}
+
+.sbd-price-btn:active {
+    background-color: #b8df19;
+    box-shadow: 0 5px #819337;
+    transform: translateY(4px);
+}
+
+.sbd-pri-card-bg-1 {
+    background-color: #424242;
+    box-shadow: 0 5px #343232;
+}
+
+.sbd-pri-card-bg-2 {
+    background-color: #74b0a4;
+    box-shadow: 0 5px #58897f;
+}
+
+.sbd-pri-card-bg-3 {
+    background-color: #b6c380;
+    box-shadow: 0 5px #8f9963;
+}
+
+.sbd-pri-card-bg-4 {
+    background-color: #e4e4e4;
+    box-shadow: 0 5px #c0c0c0;
+}
+
+.sbd-price2-btn-1 {
+    padding: 8px 25px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #e4e4e4;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #c0c0c0;
+}
+
+.sbd-price2-btn-1:hover {
+    background-color: #b6b6b6
+}
+
+.sbd-price2-btn-1:active {
+    background-color: #e4e4e4;
+    box-shadow: 0 5px #c0c0c0;
+    transform: translateY(4px);
+}
+
+.sbd-price2-btn-2 {
+    padding: 8px 25px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #74b0a4;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #55857b;
+}
+
+.sbd-price2-btn-2:hover {
+    background-color: #669e92
+}
+
+.sbd-price2-btn-2:active {
+    background-color: #74b0a4;
+    box-shadow: 0 5px #55857b;
+    transform: translateY(4px);
+}
+
+.sbd-price2-btn-3 {
+    padding: 8px 25px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #b6c380;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #8e9865;
+}
+
+.sbd-price2-btn-3:hover {
+    background-color: #a8b575
+}
+
+.sbd-price2-btn-3:active {
+    background-color: #b6c380;
+    box-shadow: 0 5px #8e9865;
+    transform: translateY(4px);
+}
+
+.sbd-price2-btn-4 {
+    padding: 8px 25px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #424242;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #2d2d2d;
+}
+
+.sbd-price2-btn-4:hover {
+    background-color: #727171
+}
+
+.sbd-price2-btn-4:active {
+    background-color: #424242;
+    box-shadow: 0 5px #2d2d2d;
+    transform: translateY(4px);
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.sbd-about {
+    color: #424242;
+}
+
+.sbd-about-replay {
+    color: #b0cd3b;
+}
+
+.sbd-theme-pro {
+    width: 100%;
+    height: 400px;
+}
+
+.sbd-theme-pro-p {
+    padding-top: 10%;
+    font-size: 60px;
+}
+
+.sbd-theme-pro-p-t {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -25px;
+}
+
+/* Progress Bar */
+.progressbar {
+    position: relative;
+    padding: px;
+    margin: px;
+    float: left;
+    text-align: center;
+}
+
+.barOverflow {
+    /* Wraps the rotating .bar */
+    position: relative;
+    overflow: hidden;
+    /* Comment this line to understand the trick */
+    width: 180px;
+    height: 90px;
+    /* Half circle (overflow) */
+    margin-bottom: -14px;
+    /* bring the numbers up */
+}
+
+.bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 180px;
+    height: 180px;
+    /* full circle! */
+    border-radius: 100%;
+    box-sizing: border-box;
+    border: 25px solid #eee;
+    /* half gray, */
+    border-bottom-color: #3cbf82;
+    /* half azure */
+    border-right-color: #3cbf82;
+}
+
+/* Looked */
+.sbd-looked-p {
+    padding-top: 10%;
+    font-size: 50px;
+}
+
+.sbd-looked-p-t {
+    font-size: 30px;
+    margin-top: -25px;
+}
+
+.sbd-looked {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
+
+/* From */
+.sbd-from {
+    background-color: black;
+}
+
+.f-btn {
+    padding: 8px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #1bbc9d;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 3px #1e816e;
+}
+
+.f-btn:hover {
+    background-color: #21d6b3
+}
+
+.f-btn:active {
+    background-color: #1bbc9d;
+    box-shadow: 0 3px #1e816e;
+    transform: translateY(4px);
+}
+
+.sbd-mi{
+    line-height: 22px;
+}
+
+/* Social Logo */
+.sbd-s-logo{
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.sbd-s-logo:hover{
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    background-color: #b0cd3b;
+    border-radius: 50%;
+}
